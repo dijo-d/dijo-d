@@ -1,68 +1,67 @@
-```markdown
-<!--
-  Dijo's GitHub Profile README
-  Username: dijo-d
--->
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBwMHkzMXFtcGEybWw4anl2c3F1aDFleGJvY3YwZHl0YXJlZW5lZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/dijo-d">
-    <img src="https://raw.githubusercontent.com/dijo-d/dijo-d/main/assets/header.svg" alt="Dijo's Header" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dijo-d?tab=followers">
-    <img src="https://img.shields.io/github/followers/dijo-d?label=Follow&style=social" alt="Follow" />
-  </a>
-  <a href="https://github.com/dijo-d?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/dijo-d?style=flat-square" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/dijo-d?tab=activity">
-    <img src="https://img.shields.io/github/commit-activity/m/dijo-d?style=flat-square" alt="Commit Activity" />
-  </a>
-</p>
-
----
-
-## 👋 Hey there, I'm Dijo
-
-I craft clean, minimalistic solutions in code and design. Currently exploring DevOps, AI, and full-stack backends with FastAPI.
-
-- 🌱 Learning more about **DevOps** & **GenAI**
-- 📫 Reach me at: [dijodaiju7@gmail.com](mailto:dijodaiju7@gmail.com)
-
----
-
-## 💼 Featured Projects
-
-| Project    | Description                                              | Repo                                                     |
-| ---------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| **Wordo**     | A minimalistic vocabulary trainer app with spaced repetition.              | [github.com/dijo-d/wordo](https://github.com/dijo-d/wordo)       |
-| **RouteSage** | Auto-generate FastAPI docs using LLMs to explain your routes in plain English. | [github.com/dijo-d/routesage](https://github.com/dijo-d/routesage) |
-
-_Note: You can find my earlier work under my old account: [dijodaiju7](https://github.com/dijodaiju7)_
-
----
-
-## 📝 Blog & Articles
-
-I share insights on Development, DevOps workflows, and GenAI experiments.
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dijo-d&show_icons=true&include_all_commits=true&hide_border=true" alt="Dijo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijo-d&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
+###
 
 <div align="center">
-  <a href="https://github.com/dijo-d">
-    <img src="https://raw.githubusercontent.com/dijo-d/dijo-d/main/assets/footer.svg" alt="Thanks for visiting!" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-```
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+</div>
+
+###
+
+
+
+###
